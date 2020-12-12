@@ -30,7 +30,7 @@ As below image shows, user enter the desire country, and the table shows results
 
 As below image shows, user enter the desire shape, and the table shows results that match with shape.
 
-![https://github.com/Nazanin-hub/UFOs/blob/main/static/images/shape.png)
+![](https://github.com/Nazanin-hub/UFOs/blob/main/static/images/shape.png)
 
 As below image shows, user can enter multiple criteria at the same time. The webpage will be updated with the search criteria after pressing "Enter".
 
