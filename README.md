@@ -14,7 +14,7 @@ Helping a data journalist to analyze UFO sightings by allowing users to filter f
 
 As below image shows, user enter the desire date, and the table shows results that match with date.
 
-![] (
+![] (https://github.com/Nazanin-hub/UFOs/blob/main/static/images/date.png)
 
 
 
