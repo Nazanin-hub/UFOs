@@ -34,7 +34,7 @@ As below image shows, user enter the desire shape, and the table shows results t
 
 As below image shows, user can enter multiple criteria at the same time. The webpage will be updated with the search criteria after pressing "Enter".
 
-![](
+![](https://github.com/Nazanin-hub/UFOs/blob/main/static/images/state%20and%20city.png)
 
 
 
