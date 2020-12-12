@@ -12,31 +12,28 @@ Helping a data journalist to analyze UFO sightings by allowing users to filter f
 
 ## Results
 
-As below image shows, user enter the desire date, and the table shows results that match with date.
+As the below image shows, the user enters the desired date. The webpage will be updated with the desired date after pressing "Enter".
 
 ![](https://github.com/Nazanin-hub/UFOs/blob/main/static/images/date.png)
 
-As below image shows, user enter the desire city, and the table shows results that match with city.
+As the below image shows, the user enters the desired city. The webpage will be updated with the desired city after pressing "Enter".
 
 ![](https://github.com/Nazanin-hub/UFOs/blob/main/static/images/city.png)
 
-As below image shows, user enter the desire state, and the table shows results that match with state.
+As the below image shows, the user enters the desired state. The webpage will be updated with the desired state after pressing "Enter".
 
 ![](https://github.com/Nazanin-hub/UFOs/blob/main/static/images/state.png)
 
-As below image shows, user enter the desire country, and the table shows results that match with country.
+As the below image shows, the user enters the desired country. The webpage will be updated with the desired country after pressing "Enter".
 
 ![](https://github.com/Nazanin-hub/UFOs/blob/main/static/images/country.png)
 
-As below image shows, user enter the desire shape, and the table shows results that match with shape.
+As the below image shows, the user enters the desired shape. The webpage will be updated with the desired shape after pressing "Enter".
 
 ![](https://github.com/Nazanin-hub/UFOs/blob/main/static/images/shape.png)
 
-As below image shows, user can enter multiple criteria at the same time. The webpage will be updated with the search criteria after pressing "Enter".
+As the below image shows, the user can enter multiple criteria simultaneously. The webpage will be updated with the search criteria after pressing "Enter".
 
 ![](https://github.com/Nazanin-hub/UFOs/blob/main/static/images/state%20and%20city.png)
-
-
-
 
 ## Summary
