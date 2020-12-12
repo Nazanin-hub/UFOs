@@ -12,6 +12,8 @@ Helping a data journalist to analyze UFO sightings by allowing users to filter f
 
 ## Results
 
+### Filtering by date
+
 As the below image shows, the user enters the desired date. The webpage will be updated with the desired date after pressing "Enter".
 
 ![](https://github.com/Nazanin-hub/UFOs/blob/main/static/images/date.png)
