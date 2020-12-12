@@ -12,6 +12,12 @@ Helping a data journalist to analyze UFO sightings by allowing users to filter f
 
 ## Results
 
+As below image shows, user enter the desire date, and the table shows results that match with date.
+
+![] (
+
+
+
 
 
 ## Summary
