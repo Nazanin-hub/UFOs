@@ -12,27 +12,37 @@ Helping a data journalist to analyze UFO sightings by allowing users to filter f
 
 ## Results
 
-#### Filtering by date
+### Filtering by date
 
 As the below image shows, the user enters the desired date. The webpage will be updated with the desired date after pressing "Enter".
 
 ![](https://github.com/Nazanin-hub/UFOs/blob/main/static/images/date.png)
 
+### Filtering by city
+
 As the below image shows, the user enters the desired city. The webpage will be updated with the desired city after pressing "Enter".
 
 ![](https://github.com/Nazanin-hub/UFOs/blob/main/static/images/city.png)
+
+### Filtering by state
 
 As the below image shows, the user enters the desired state. The webpage will be updated with the desired state after pressing "Enter".
 
 ![](https://github.com/Nazanin-hub/UFOs/blob/main/static/images/state.png)
 
+### Filtering by country
+
 As the below image shows, the user enters the desired country. The webpage will be updated with the desired country after pressing "Enter".
 
 ![](https://github.com/Nazanin-hub/UFOs/blob/main/static/images/country.png)
 
+### Filtering by shape
+
 As the below image shows, the user enters the desired shape. The webpage will be updated with the desired shape after pressing "Enter".
 
 ![](https://github.com/Nazanin-hub/UFOs/blob/main/static/images/shape.png)
+
+### Multiple criteria filtering
 
 As the below image shows, the user can enter multiple criteria simultaneously. The webpage will be updated with the search criteria after pressing "Enter".
 
