@@ -17,7 +17,13 @@ As below image shows, user enter the desire date, and the table shows results th
 ![](https://github.com/Nazanin-hub/UFOs/blob/main/static/images/date.png)
 
 As below image shows, user enter the desire city, and the table shows results that match with city.
+
+![](https://github.com/Nazanin-hub/UFOs/blob/main/static/images/city.png)
+
+As below image shows, user enter the desire state, and the table shows results that match with state.
+
 ![](
+
 
 
 
