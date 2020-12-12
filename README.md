@@ -26,7 +26,11 @@ As below image shows, user enter the desire state, and the table shows results t
 
 As below image shows, user enter the desire country, and the table shows results that match with country.
 
-![](
+![](https://github.com/Nazanin-hub/UFOs/blob/main/static/images/country.png)
+
+As below image shows, user enter the desire shape, and the table shows results that match with shape.
+
+![
 
 
 
