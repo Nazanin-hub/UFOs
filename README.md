@@ -22,9 +22,11 @@ As below image shows, user enter the desire city, and the table shows results th
 
 As below image shows, user enter the desire state, and the table shows results that match with state.
 
+![](https://github.com/Nazanin-hub/UFOs/blob/main/static/images/state.png)
+
+As below image shows, user enter the desire country, and the table shows results that match with country.
+
 ![](
-
-
 
 
 
