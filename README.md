@@ -49,3 +49,10 @@ As the below image shows, the user can enter multiple criteria simultaneously. T
 ![](https://github.com/Nazanin-hub/UFOs/blob/main/static/images/state%20and%20city.png)
 
 ## Summary
+
+The drawback of this design is that user can not see the options list in place of the input fields. For example, if user wants to enter the desired city, he shold go through the table to find the desired city.
+
+First recomendation to improve the design would be using the drop-down lists. So, user can select the desired criteria from the list instead of going through the table to find them.
+
+Second recomendation could be inserting a filter buttom at the end of the filter search part to clear all filters.
+
