@@ -50,9 +50,13 @@ As the below image shows, the user can enter multiple criteria simultaneously. T
 
 ## Summary
 
+### one drawback of this new design
+
 The drawback of this design is that the user can not see the options list in place of the input fields. For example, if the user wants to enter the desired city, he should go through the table to find the desired city.
 
-The first recommendation to improve the design would be to use the drop-down lists. So, the user can select the desired criteria from the list instead of going through the table to find them.
+### Two recommendations for further development
+
+The first recommendation could be using the drop-down lists. So, the user can select the desired criteria from the list instead of going through the table to find them.
 
 The second recommendation could be inserting a filter button at the end of the filter search part to clear all filters.
 
